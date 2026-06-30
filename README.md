@@ -1,1 +1,2 @@
 # Secure-Init-System-SIS-
+SIS (Secure Init System) is a modular, policy-driven init system designed around a minimal PID 1 core and a fully event-based architecture. It replaces fragmented system components with a unified SIS-Policy language for deterministic, auditable security and service control. SIS emphasizes capability-based isolation, signed modules, and strict enforcement of system behavior through declarative rules.
